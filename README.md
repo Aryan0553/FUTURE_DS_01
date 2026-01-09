@@ -2,7 +2,7 @@
 An interactive Power BI dashboard built using e-commerce transactional data to analyze sales performance,
 identify best-selling products, track monthly sales trends,
 and highlight high-revenue categories for data-driven business decisions.
-
+__
 2.🛠 Tech Stack
 Power BI – Data modeling, DAX, dashboard creation
 Python (Jupyter Notebook) – Data cleaning & analysis
