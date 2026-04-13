@@ -29,6 +29,7 @@ Clean and professional executive-style dashboard layout
 ## 5.🏢 Business Problem
 Businesses often struggle to understand which products and categories drive revenue and how sales performance changes over time. 
 This project helps stakeholders gain quick insights into sales trends and product performance for better strategic decisions.
+
 ---
 
 ## 6.❓ Key Questions Answered
